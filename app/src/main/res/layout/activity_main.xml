@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="420dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:id="@+id/img11"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+            <ImageView
+                android:id="@+id/img12"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+            <ImageView
+                android:id="@+id/img13"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:id="@+id/img21"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+            <ImageView
+                android:id="@+id/img22"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+            <ImageView
+                android:id="@+id/img23"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="100dp">
+
+            <ImageView
+                android:id="@+id/img31"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+            <ImageView
+                android:id="@+id/img32"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+            <ImageView
+                android:id="@+id/img33"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/imgborder" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="60dp">
+
+            <ImageView
+                android:id="@+id/part11"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r1c1" />
+
+            <ImageView
+                android:id="@+id/part12"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r1c2" />
+
+            <ImageView
+                android:id="@+id/part13"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r1c3" />
+
+            <ImageView
+                android:id="@+id/part21"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r2c1" />
+
+            <ImageView
+                android:id="@+id/part22"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r2c2" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="60dp">
+
+            <ImageView
+                android:id="@+id/part23"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r2c3" />
+
+            <ImageView
+                android:id="@+id/part31"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r3c1" />
+
+            <ImageView
+                android:id="@+id/part32"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r3c2" />
+
+            <ImageView
+                android:id="@+id/part33"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/imgborder"
+                android:src="@drawable/r3c3" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</GridLayout>
